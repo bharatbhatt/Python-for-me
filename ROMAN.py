@@ -13,7 +13,7 @@ class ROMAN:
         return roman
 
 
-dec= input("Enter the decimal")
+dec= input("Enter the Decimal digit123")
 print (len(dec))
 dec2=int(dec)
 obj = ROMAN()
